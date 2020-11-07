@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ea21d92.chunk.css",
-    "main.js": "/static/js/main.49452d99.chunk.js",
-    "main.js.map": "/static/js/main.49452d99.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0c3cf46d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0c3cf46d.js.map",
-    "static/js/2.a2382eb0.chunk.js": "/static/js/2.a2382eb0.chunk.js",
-    "static/js/2.a2382eb0.chunk.js.map": "/static/js/2.a2382eb0.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.5ea21d92.chunk.css.map": "/static/css/main.5ea21d92.chunk.css.map",
-    "static/js/2.a2382eb0.chunk.js.LICENSE.txt": "/static/js/2.a2382eb0.chunk.js.LICENSE.txt",
-    "static/media/pos.scss": "/static/media/comanda.fc4c9787.png",
-    "static/media/login.scss": "/static/media/passwordhover.9063b3cc.svg",
-    "static/media/logo.32d5c4da.svg": "/static/media/logo.32d5c4da.svg",
-    "static/media/plato_blanco.255e60bc.svg": "/static/media/plato_blanco.255e60bc.svg",
-    "static/media/search.c031f9ef.svg": "/static/media/search.c031f9ef.svg"
+    "main.css": "/codigo4-pos-front/static/css/main.6db6776e.chunk.css",
+    "main.js": "/codigo4-pos-front/static/js/main.49452d99.chunk.js",
+    "main.js.map": "/codigo4-pos-front/static/js/main.49452d99.chunk.js.map",
+    "runtime-main.js": "/codigo4-pos-front/static/js/runtime-main.1f917d8c.js",
+    "runtime-main.js.map": "/codigo4-pos-front/static/js/runtime-main.1f917d8c.js.map",
+    "static/js/2.a2382eb0.chunk.js": "/codigo4-pos-front/static/js/2.a2382eb0.chunk.js",
+    "static/js/2.a2382eb0.chunk.js.map": "/codigo4-pos-front/static/js/2.a2382eb0.chunk.js.map",
+    "index.html": "/codigo4-pos-front/index.html",
+    "static/css/main.6db6776e.chunk.css.map": "/codigo4-pos-front/static/css/main.6db6776e.chunk.css.map",
+    "static/js/2.a2382eb0.chunk.js.LICENSE.txt": "/codigo4-pos-front/static/js/2.a2382eb0.chunk.js.LICENSE.txt",
+    "static/media/pos.scss": "/codigo4-pos-front/static/media/comanda.fc4c9787.png",
+    "static/media/login.scss": "/codigo4-pos-front/static/media/passwordhover.9063b3cc.svg",
+    "static/media/logo.32d5c4da.svg": "/codigo4-pos-front/static/media/logo.32d5c4da.svg",
+    "static/media/plato_blanco.255e60bc.svg": "/codigo4-pos-front/static/media/plato_blanco.255e60bc.svg",
+    "static/media/search.c031f9ef.svg": "/codigo4-pos-front/static/media/search.c031f9ef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c3cf46d.js",
+    "static/js/runtime-main.1f917d8c.js",
     "static/js/2.a2382eb0.chunk.js",
-    "static/css/main.5ea21d92.chunk.css",
+    "static/css/main.6db6776e.chunk.css",
     "static/js/main.49452d99.chunk.js"
   ]
 }
